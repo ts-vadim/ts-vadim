@@ -6,7 +6,7 @@
 
 <!-- <img src="https://github.com/ts-vadim.png" width="150px"></img> -->
 
-- :smile: I’m currently working on a 2D game inspired by Pacman :blush:
+- :smile: I’m currently working on a 2D game inspired by Pac-Man :blush:
 - :cactus: I’m currently learning C# and Game Development
 
 ### Me on other platforms
