@@ -11,10 +11,12 @@
 
 ### Me on other platforms
 <p float="left">
+  <!--
   <a href="https://app.nuclino.com/NightTimeCoding/Angry-Pacman">
     <img src="https://github.com/ts-vadim/ts-vadim/blob/main/images/nuclino-logo.png" width="70px">
     </img>
   <a/>
+  -->
   <a href="https://ts-vadim.itch.io/">
     <img src="https://github.com/ts-vadim/ts-vadim/blob/main/images/itchio-logo.png" width="70px">
     </img>
