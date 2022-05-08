@@ -9,6 +9,11 @@
 <!-- - :smile: I’m currently working on a 2D game inspired by Pac-Man :blush: -->
 - :cactus: I’m currently learning C++ and OpenGL
 
+Some stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ts-vadim&count_private=true&hide=contribs&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ts-vadim&layout=compact&theme=tokyonight)
+
 <!--
 ### Me on other platforms
 <p float="left">
