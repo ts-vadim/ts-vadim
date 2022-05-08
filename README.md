@@ -11,9 +11,13 @@
 
 Some stats:
 
+<p float="left">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ts-vadim&count_private=true&hide=contribs&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ts-vadim&layout=compact&theme=tokyonight)
 
+</p>
+  
 <!--
 ### Me on other platforms
 <p float="left">
