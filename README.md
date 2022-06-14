@@ -13,7 +13,7 @@ Some stats:
 
 <div style="display: flex; flex-direction: column;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ts-vadim&count_private=true&show_icons=true&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-vadim&count_private=true&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-vadim&exclude_repo=glad&count_private=true&layout=compact&theme=tokyonight" />
 </div>
 
 <!--
